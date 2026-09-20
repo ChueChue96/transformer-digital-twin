@@ -15,7 +15,7 @@ import os
 # Folder ဖန်တီး
 os.makedirs("data", exist_ok=True)
 
-# ============ Step 1: Transformer Specifications ============
+# ============ Step 1: Transformer Specifications ===========
 # ဒီတန်ဖိုးတွေက Enertech ရဲ့ Factory Test Report ကနေ ရမယ်
 # လောလောဆယ် placeholder တန်ဖိုး သုံးထားတယ်
 specs = UserTransformerSpecifications(
